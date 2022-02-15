@@ -1,0 +1,17 @@
+
+
+1]	To start with git go to specified folder and open "Git Bash"
+
+2]	Then login to git by providing your user name and user email as 
+
+
+	$ git config --global user.name "Anand"
+	
+	$ git config --global user.email "xyz@gmail.com"
+	
+	
+3]	Start working in your local directory
+	
+	$ git init           for initialisation of your git session
+	
+	$
